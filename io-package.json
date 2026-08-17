@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "deyeidc",
-    "version": "0.3.2",
+    "version": "0.4.0",
     "news": {
+      "0.4.0": {
+        "en": "Compute module redesigned and expanded (PR XHunter74)",
+        "de": "Compute-Modul neu gestaltet und erweitert (PR XHunter74)",
+        "ru": "Модуль вычислений переработан и расширен (PR XHunter74)",
+        "pt": "Módulo de computação redesenhado e expandido (PR XHunter74)",
+        "nl": "De rekenmodule is opnieuw ontworpen en uitgebreid (PR XHunter74)",
+        "fr": "Module de calcul repensé et étendu (PR XHunter74)",
+        "it": "Modulo di calcolo riprogettato e ampliato (PR XHunter74)",
+        "es": "Módulo de cómputo rediseñado y ampliado (PR XHunter74)",
+        "pl": "Przeprojektowany i rozszerzony moduł obliczeniowy (PR XHunter74)",
+        "uk": "Перероблений та розширений обчислювальний модуль (PR XHunter74)",
+        "zh-cn": "计算模块重新设计并扩展（PR XHunter74）"
+      },
       "0.3.2": {
         "en": "Less restrictive serial number check\nNodeJS >= 22.x is required\nAny necessary adjustments for nodeJS 22.x\ntranslations i18n-short",
         "de": "Weniger restriktive Seriennummernkontrolle\nNodeJS >= 22.x erforderlich\nAlle notwendigen Anpassungen für nodeJS 22.x\nübersetzungen i18n-short",
@@ -80,19 +93,6 @@
         "pl": "Migracja z ESLint 8.x do 9.x",
         "uk": "Міграція від ESLint 8.x до 9.x",
         "zh-cn": "从ESLint 8.x迁移到9.x"
-      },
-      "0.1.2": {
-        "en": "responsive-design customized\nupdated to adapter-core 3.2.2",
-        "de": "responsive-design maßgeschneidert\naktualisiert auf adapter-kern 3.2.2",
-        "ru": "адаптивный дизайн\nобновленный к адаптер-ядерный 3.2.2",
-        "pt": "design responsivo personalizado\natualizado para adaptador-core 3.2.2",
-        "nl": "responsive-design aangepast\nbijgewerkt naar adapter-kern 3.2.2",
-        "fr": "design adapté personnalisé\nmise à jour au cœur de l'adaptateur 3.2.2",
-        "it": "responsive-design personalizzato\naggiornato a adattatore-core 3.2.2",
-        "es": "diseño de respuesta personalizado\nactualizado al adaptador-core 3.2.2",
-        "pl": "design odpowiedzialny dostosowany\nzaktualizowany do rdzenia adaptera 3.2.2",
-        "uk": "адаптивний дизайн\nоновлений до адаптера-core 3.2.2",
-        "zh-cn": "定制响应设计\n更新到适配器核心 3.2.2"
       }
     },
     "titleLang": {

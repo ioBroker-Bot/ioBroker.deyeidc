@@ -1,4 +1,9 @@
 # Older changes
+## 0.1.4 (2025-01-11)
+
+- (raschy) Error message corrected
+- (raschy) Function nullable repaired
+
 ## 0.1.3 (2025-01-02)
 
 - (raschy) Migration from ESLint 8.x to 9.x
